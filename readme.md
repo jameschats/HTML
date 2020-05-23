@@ -21,5 +21,6 @@ Agenda
 * video
 
 VSCode Extensions
+
 * Live Server
 * Angular 2 TypeScript Emmet
