@@ -17,3 +17,5 @@ Agenda
 * pre tag
 * inline styles
 * div with alignment, border, padding, margin
+* audio
+* video
