@@ -19,3 +19,7 @@ Agenda
 * div with alignment, border, padding, margin
 * audio
 * video
+
+VSCode Extensions
+* Live Server
+* Angular 2 TypeScript Emmet
